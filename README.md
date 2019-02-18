@@ -8,7 +8,7 @@ For this project I used the next tools:
 - Redux as State manager.
 - Bootstrap for some CSS bootstraping.
 - FontAwsome for Icon Library
-- SCSS for CSS pre-processor.
+- SASS for CSS pre-processor.
 - GitHub pages to host the demo.
 
 ## Demo page
