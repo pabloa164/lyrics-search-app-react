@@ -1,0 +1,21 @@
+.button-go-back {
+  text-decoration: none;
+  padding: .75rem 1.75rem;
+  background: #17A2B8;
+  color: #fff;
+  border-radius: 50px;
+
+  &:active,
+  &:visited {
+    outline: none;
+  }
+
+  &:hover {
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
+.container {
+  margin-top: 2.5rem;
+}

@@ -1,0 +1,7 @@
+const LOAD_TRACKS = 'LOAD_TRACKS'
+const SEARCH_TRACK = 'SEARCH_TRACK'
+
+export {
+  LOAD_TRACKS,
+  SEARCH_TRACK
+}
